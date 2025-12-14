@@ -1,0 +1,132 @@
+# Dyslexia Awareness Guide: 5 Lessons About Dyslexia
+
+> A 5-lesson guide to understanding dyslexia and improving reading and writing for everyone.
+
+## Introduction: Why learn about dyslexia
+
+There are many reasons to learn about dyslexia. Here are just three of them.
+
+1. **Help someone with dyslexia** without even realising they are dyslexic by producing more dyslexia-friendly documents
+2. **Help yourself** by using some of the **technologies and strategies** for reading and writing that help people with dyslexia - they can improve everyone's writing
+3. Produce documents that are easier to read for more people. **Dyslexia-friendly documents are easier to read for everyone.** Dyslexia-friendly documents are also easier to edit.
+
+This page outlines **5 lessons you can learn**. You can read them all at once, or schedule 15 minutes each day for five days to learn a new skill and integrate it into your practice.
+
+---
+
+## Lesson 1: About dyslexia and its immediate impacts
+
+### What to know
+1. Dyslexia is a **learning difficulty** that makes it more **challenging to decode letters into words** during reading and to spell words during writing
+2. Dyslexia is a **hidden disability**. This means that there is nothing that makes someone with dyslexia stand out in daily interactions
+3. People are **identified as having dyslexia at every stage** of their educational journey as the need to rely on reading increases
+4. Dyslexia is **not linked to intelligence** or any other quality. People with extremely high or low IQ can have dyslexia. **People with dyslexia can understand the content** of the text but they have to spend so much effort on decoding individual words, they have less left for overall meaning. Many successful academics have dyslexia
+5. Dyslexia is **a life-long condition**, but it can be mitigated with training and technology.
+
+### What to read
+Read the official definition of dyslexia from the Rose report:
+> 'Dyslexia is a learning difficulty that primarily affects the skills involved in accurate and fluent word reading and spelling.'
+
+[What is dyslexia?, British Dyslexia Association (bdadyslexia.org.uk)](https://www.bdadyslexia.org.uk/dyslexia/about-dyslexia/what-is-dyslexia)
+
+### What to do
+**Try these two activities** to see what it might **feel like** to read or write when someone is dyslexic:
+1. **Read a text in the mirror** or in very tiny font
+2. **Write out a sentence by hand** but write every a as @ and every e as 3.
+
+What **you will experience** is:
+1. Your reading and writing will **slow down**
+2. You will make **more errors**
+3. You will have to **focus so much on individual words** that you will struggle to make sense of the whole.
+
+---
+
+## Lesson 2: Structured, undistorted text is dyslexia friendly
+
+### What to know
+Because dyslexia readers often read more slowly, they find it more **difficult to skim or scan a text**. Large chunks of undifferentiated text are very hard to process and may feel intimidating.
+
+**Three easy things** you can do to make text more **dyslexia friendly**:
+1. **Bold** key phrases in your paragraphs
+2. Use numbers and **bullets** for **lists**
+3. Labels sections with **headings** and mark them with **heading styles.**
+
+### What to read
+Read [readability.edutools.fyi](https://readability.edutools.fyi/)
+
+### What to do
+**Review one of your documents** or websites to see how you could make it more dyslexia friendly.
+
+---
+
+## Lesson 3: Listening to text reduces processing overload
+
+### What to know
+One way in which a person with dyslexia can **reduce the processing overload** is to **listen** to text.
+
+**Text to speech technology** has improved greatly and is now available to everyone for free.
+
+### What to read
+Read about **how and why to listen** to text at [academicreading.edutools.fyi](https://academicreading.edutools.fyi/)
+
+### What to do
+**Try listening to text:**
+1. Open a **document or email you wrote** in **Word Online** or on your phone and choose **Read Aloud**
+2. Open a **webpage or a PDF in Microsoft Edge** and choose **Read Aloud.**
+
+This will **help you** in two ways:
+1. You will have a better sense of how people with dyslexia and blind people **experience text**
+2. You will be able to **improve your own reading** practices.
+
+---
+
+## Lesson 4: Dictating instead of writing reduces spelling overhead
+
+### What to know
+**Dictation can help** reduce the stress of spelling for a person with dyslexia.
+
+There are now **many free tools for dictation**.
+
+### What to read
+Read about **why and how to dictate** at [academicproductivity.edutools.fyi](https://academicproductivity.edutools.fyi/)
+
+### What to do
+1. Open **Word Online** and try dictating a short piece of text
+2. Think about what **benefits and challenges** a person with dyslexia will face when they use this method
+3. Think about how you can **use dictation to help you** with your writing.
+
+---
+
+## Lesson 5: Visual aspects that make reading easier
+
+### What to know
+Although **dyslexia is not a visual difficulty**, visual aspects of text can further slow down processing.
+
+The same things that help readers with dyslexia improve the processing for everyone.
+
+#### Things that help
+1. Do use
+   a. larger font size
+   b. increased line spacing
+   c. shorter lines.
+2. Do not use
+   a. underline
+   b. italics
+   c. ALL CAPS.
+
+**Warm background colours** (such as light cream) can also help with processing. But in general, it is best not to do this for documents as standard.
+
+#### Things that do not help
+Research has shown that two of the most commonly prescribed solutions for dyslexia do not work:
+1. Dyslexia Font or other special fonts
+2. Coloured overlays.
+
+However, both may be preferred by people with dyslexia or others for a more comfortable reading experience.
+
+### What to read
+Read [readability.edutools.fyi](https://readability.edutools.fyi/)
+
+### What to do
+1. **Review one of your documents** or websites to see how you could make it more dyslexia friendly.
+2. Learn to **enlarge documents** you are reading
+3. **Change the background colour** on your reader software to reduce visual stress.

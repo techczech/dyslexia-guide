@@ -1,0 +1,369 @@
+{
+  "lessons": [
+    {
+      "id": "intro",
+      "title": "Why learn about dyslexia",
+      "shortTitle": "Introduction",
+      "description": "Discover the 3 key reasons to understand dyslexia and how it benefits everyone.",
+      "icon": "Info",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "There are many reasons to learn about dyslexia. Here are just three of them."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "<strong>Help someone with dyslexia</strong> without even realising they are dyslexic by producing more dyslexia-friendly documents",
+            "<strong>Help yourself</strong> by using some of the <strong>technologies and strategies</strong> for reading and writing that help people with dyslexia - they can improve everyone's writing",
+            "Produce documents that are easier to read for more people. <strong>Dyslexia-friendly documents are easier to read for everyone.</strong> Dyslexia-friendly documents are also easier to edit."
+          ]
+        },
+        {
+          "type": "box",
+          "style": "blue",
+          "content": "This page outlines <strong>5 lessons you can learn</strong>. You can read them all at once, or schedule 15 minutes each day for five days to learn a new skill and integrate it into your practice."
+        }
+      ]
+    },
+    {
+      "id": "day1",
+      "title": "About dyslexia and its immediate impacts",
+      "shortTitle": "About Dyslexia",
+      "description": "Understand dyslexia as a learning difficulty and experience what it feels like.",
+      "icon": "Eye",
+      "sections": [
+        {
+          "title": "What to know",
+          "icon": "Lightbulb",
+          "colorClass": "border-amber-400",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Dyslexia is a <strong>learning difficulty</strong> that makes it more <strong>challenging to decode letters into words</strong> during reading and to spell words during writing",
+                "Dyslexia is a <strong>hidden disability</strong>. This means that there is nothing that makes someone with dyslexia stand out in daily interactions",
+                "People are <strong>identified as having dyslexia at every stage</strong> of their educational journey as the need to rely on reading increases",
+                "Dyslexia is <strong>not linked to intelligence</strong> or any other quality. People with extremely high or low IQ can have dyslexia. <strong>People with dyslexia can understand the content</strong> of the text but they have to spend so much effort on decoding individual words, they have less left for overall meaning. Many successful academics have dyslexia",
+                "Dyslexia is <strong>a life-long condition</strong>, but it can be mitigated with training and technology."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What to read",
+          "icon": "BookOpen",
+          "colorClass": "border-blue-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Read the official definition of dyslexia from the Rose report:"
+            },
+            {
+              "type": "blockquote",
+              "content": "'Dyslexia is a learning difficulty that primarily affects the skills involved in accurate and fluent word reading and spelling.'"
+            },
+            {
+              "type": "paragraph",
+              "content": "<a href=\"https://www.bdadyslexia.org.uk/dyslexia/about-dyslexia/what-is-dyslexia\" target=\"_blank\" rel=\"noreferrer\" class=\"text-blue-600 hover:underline font-medium\">What is dyslexia?, British Dyslexia Association (bdadyslexia.org.uk)</a>."
+            }
+          ]
+        },
+        {
+          "title": "What to do",
+          "icon": "Keyboard",
+          "colorClass": "border-emerald-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "<strong>Try these two activities</strong> to see what it might <strong>feel like</strong> to read or write when someone is dyslexic:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "<strong>Read a text in the mirror</strong> or in very tiny font",
+                "<strong>Write out a sentence by hand</strong> but write every a as @ and every e as 3."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": "What <strong>you will experience</strong> is:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Your reading and writing will <strong>slow down</strong>",
+                "You will make <strong>more errors</strong>",
+                "You will have to <strong>focus so much on individual words</strong> that you will struggle to make sense of the whole."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day2",
+      "title": "Structured, undistorted text is dyslexia friendly",
+      "shortTitle": "Structured Text",
+      "description": "Learn how structure helps everyone and 3 easy ways to format your documents.",
+      "icon": "Layout",
+      "sections": [
+        {
+          "title": "What to know",
+          "icon": "Lightbulb",
+          "colorClass": "border-amber-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Because dyslexia readers often read more slowly, they find it more <strong>difficult to skim or scan a text</strong>. Large chunks of undifferentiated text are very hard to process and may feel intimidating."
+            },
+            {
+              "type": "paragraph",
+              "content": "<strong>Three easy things</strong> you can do to make text more <strong>dyslexia friendly</strong>:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "<strong>Bold</strong> key phrases in your paragraphs",
+                "Use numbers and <strong>bullets</strong> for <strong>lists</strong>",
+                "Labels sections with <strong>headings</strong> and mark them with <strong>heading styles.</strong>"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What to read",
+          "icon": "BookOpen",
+          "colorClass": "border-blue-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Read <a href=\"https://readability.edutools.fyi/\" target=\"_blank\" rel=\"noreferrer\" class=\"text-blue-600 hover:underline font-medium\">readability.edutools.fyi</a>."
+            }
+          ]
+        },
+        {
+          "title": "What to do",
+          "icon": "Keyboard",
+          "colorClass": "border-emerald-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "<strong>Review one of your documents</strong> or websites to see how you could make it more dyslexia friendly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day3",
+      "title": "Listening to text reduces processing overload",
+      "shortTitle": "Listening to Text",
+      "description": "Reduce processing load by listening to text using modern TTS tools.",
+      "icon": "Headphones",
+      "sections": [
+        {
+          "title": "What to know",
+          "icon": "Lightbulb",
+          "colorClass": "border-amber-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "One way in which a person with dyslexia can <strong>reduce the processing overload</strong> is to <strong>listen</strong> to text."
+            },
+            {
+              "type": "paragraph",
+              "content": "<strong>Text to speech technology</strong> has improved greatly and is now available to everyone for free."
+            }
+          ]
+        },
+        {
+          "title": "What to read",
+          "icon": "BookOpen",
+          "colorClass": "border-blue-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Read about <strong>how and why to listen</strong> to text at <a href=\"https://academicreading.edutools.fyi/\" target=\"_blank\" rel=\"noreferrer\" class=\"text-blue-600 hover:underline font-medium\">academicreading.edutools.fyi</a>."
+            }
+          ]
+        },
+        {
+          "title": "What to do",
+          "icon": "Keyboard",
+          "colorClass": "border-emerald-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "<strong>Try listening to text:</strong>"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Open a <strong>document or email you wrote</strong> in <strong>Word Online</strong> or on your phone and choose <strong>Read Aloud</strong>",
+                "Open a <strong>webpage or a PDF in Microsoft Edge</strong> and choose <strong>Read Aloud.</strong>"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": "This will <strong>help you</strong> in two ways:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "You will have a better sense of how people with dyslexia and blind people <strong>experience text</strong>",
+                "You will be able to <strong>improve your own reading</strong> practices."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day4",
+      "title": "Dictating instead of writing reduces spelling overhead",
+      "shortTitle": "Dictation",
+      "description": "Remove the stress of spelling by using free dictation tools.",
+      "icon": "Mic",
+      "sections": [
+        {
+          "title": "What to know",
+          "icon": "Lightbulb",
+          "colorClass": "border-amber-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "<strong>Dictation can help</strong> reduce the stress of spelling for a person with dyslexia."
+            },
+            {
+              "type": "paragraph",
+              "content": "There are now <strong>many free tools for dictation</strong>."
+            }
+          ]
+        },
+        {
+          "title": "What to read",
+          "icon": "BookOpen",
+          "colorClass": "border-blue-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Read about <strong>why and how to dictate</strong> at <a href=\"https://academicproductivity.edutools.fyi/\" target=\"_blank\" rel=\"noreferrer\" class=\"text-blue-600 hover:underline font-medium\">academicproductivity.edutools.fyi</a>."
+            }
+          ]
+        },
+        {
+          "title": "What to do",
+          "icon": "Keyboard",
+          "colorClass": "border-emerald-400",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Open <strong>Word Online</strong> and try dictating a short piece of text",
+                "Think about what <strong>benefits and challenges</strong> a person with dyslexia will face when they use this method",
+                "Think about how you can <strong>use dictation to help you</strong> with your writing."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day5",
+      "title": "Visual aspects that make reading easier",
+      "shortTitle": "Visual Aspects",
+      "description": "Fonts, spacing, and colors that help (and what doesn't work).",
+      "icon": "Glasses",
+      "sections": [
+        {
+          "title": "What to know",
+          "icon": "Lightbulb",
+          "colorClass": "border-amber-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Although <strong>dyslexia is not a visual difficulty</strong>, visual aspects of text can further slow down processing."
+            },
+            {
+              "type": "paragraph",
+              "content": "The same things that help readers with dyslexia improve the processing for everyone."
+            },
+            {
+              "type": "heading",
+              "content": "Things that help",
+              "icon": "CheckCircle2"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Do use <ol class=\"list-[lower-alpha] pl-5 mt-2 space-y-1\"><li>larger font size</li><li>increased line spacing</li><li>shorter lines.</li></ol>",
+                "Do not use <ol class=\"list-[lower-alpha] pl-5 mt-2 space-y-1\"><li>underline</li><li>italics</li><li>ALL CAPS.</li></ol>"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": "<strong>Warm background colours</strong> (such as light cream) can also help with processing. But in general, it is best not to do this for documents as standard."
+            },
+            {
+              "type": "heading",
+              "content": "Things that do not help"
+            },
+            {
+              "type": "paragraph",
+              "content": "Research has shown that two of the most commonly prescribed solutions for dyslexia do not work:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Dyslexia Font or other special fonts",
+                "Coloured overlays."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": "However, both may be preferred by people with dyslexia or others for a more comfortable reading experience."
+            }
+          ]
+        },
+        {
+          "title": "What to read",
+          "icon": "BookOpen",
+          "colorClass": "border-blue-400",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "content": "Read <a href=\"https://readability.edutools.fyi/\" target=\"_blank\" rel=\"noreferrer\" class=\"text-blue-600 hover:underline font-medium\">readability.edutools.fyi</a>."
+            }
+          ]
+        },
+        {
+          "title": "What to do",
+          "icon": "Keyboard",
+          "colorClass": "border-emerald-400",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "<strong>Review one of your documents</strong> or websites to see how you could make it more dyslexia friendly.",
+                "Learn to <strong>enlarge documents</strong> you are reading",
+                "<strong>Change the background colour</strong> on your reader software to reduce visual stress."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
