@@ -1,3 +1,4 @@
+import { CiteThisPage } from './citation/CiteThisPage';
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Lightbulb, 
@@ -1050,6 +1051,7 @@ export default function App() {
              </button>
            )}
         </div>
+      <CiteThisPage />
       </footer>
     </div>
   );
