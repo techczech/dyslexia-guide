@@ -15,7 +15,7 @@ The Worker name was confirmed unused before creation. Pages project creation was
 From this branch, without build secrets:
 
 ```sh
-npm ci
+npm install
 npm run build
 env -u CLOUDFLARE_API_TOKEN CLOUDFLARE_ACCOUNT_ID=b6ae5bced06492ee6f0c8f92776804da npx wrangler@4 deploy
 ```
