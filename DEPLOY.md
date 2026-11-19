@@ -21,3 +21,5 @@ env -u CLOUDFLARE_API_TOKEN CLOUDFLARE_ACCOUNT_ID=b6ae5bced06492ee6f0c8f92776804
 When creating a missing project with Wrangler 4.165, use `pages project create <name> --production-branch main --force` to target the original Pages API. Once the project exists, omit `--force` from deploy commands. The project's pages.dev address is for review only; production switching requires separate approval.
 
 No server-held AI key is required by this app.
+
+Mechanical preview fix: link the existing `index.tsx` entry from `index.html`, so Vite bundles and starts the React app.
